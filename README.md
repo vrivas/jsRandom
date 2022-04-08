@@ -1,2 +1,2 @@
 # jsRandom
-Creates a random numer using time as counter to (try to) avoid pseudo-randomness.
+Creates a random number using time as counter to (try to) avoid pseudo-randomness.
